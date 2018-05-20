@@ -28,4 +28,4 @@ Your ideas/fixes/algorithms are more than welcome!
 
 |  PR#  |      Title     |   Solutions   | Time          | Space         | Video  | Difficulty  | Tag                   
 |-----|----------------|---------------|---------------|---------------|--------|-------------|-------------
-|1|[Sets](https://leetcode.com/problems/subsets/)|[Solution](../master/com.rajasree.problems.set) | O(n) | O(n*n) | |Medium|
+|1|[Sets](https://leetcode.com/problems/subsets/)|[Solution](../master/src/main/java/com/rajasree/problems/set) | O(n) | O(n*n) | |Medium|
